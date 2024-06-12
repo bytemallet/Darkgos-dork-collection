@@ -17,6 +17,6 @@ By contributing to the Community Dorks Repository, you are helping to build a va
 To contribute to the Community Dorks Repository, please follow these guidelines:
 
 1. **Quality Assurance**: Ensure that the dorks you contribute have been thoroughly tested and produce low or no false positive results.
-2. **Documentation**: Provide clear and concise documentation for each dork, including a description of its purpose and any relevant usage instructions.
+2. **Documentation**: Provide clear and concise documentation for each dork (or set of dorks), including a description of its purpose and any relevant usage instructions.
 3. **Format**: Format your dorks in a standardized manner to ensure consistency across the repository.
 4. **Contribution Process**: Fork this repository, add your dorks, and submit a pull request for review by the community.
